@@ -7,18 +7,15 @@ Code examples
 
 | [Angry Kitty] | [Yelp Clone] | [Takeaway] |
 | ------------- | ------------ | ---------- |
-| Angry Kitty is a fun web app designed to automate the process of chasing down money from your friends when you've footed the bill for a group event. Built in 10 days as a final project at Makers Academy. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Takeaway is a test driven Object Oriented exercise designed to simulate a simple takeaway ordering system using Ruby and RSpec. |
+| Angry Kitty is a fun web app designed to automate the process of chasing down money from your friends when you've footed the bill for a group event. 100% test driven and built in 10 days as a final project at Makers Academy. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Takeaway is a test driven Object Oriented exercise designed to simulate a simple takeaway ordering system using Ruby and RSpec. |
 
 Web development
 ---------------
 
 ### [Makers Academy]
-##### Three month immersive web development bootcamp: March—June 2014
+##### 12 weeks immersive web development bootcamp: March—June 2014
+Learned cutting edge coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
 
-- Pair programming
-- Test­ driven development
-- Agile values, principles and practices
-- Object­ oriented principles and design
 - Ruby 2.1.1
 - Ruby on Rails 4
 - Sinatra
@@ -37,8 +34,10 @@ Web development
 - Integration of APIs including Twilio, Stripe, Sendgrid and Google Maps
 - Version control with git
 - Deployment to Heroku
+- Agile values, principles and practices
+- Object­ oriented principles and design
 
-Work experience
+Experience
 ---------------
 
 ### [Sroop Sunar Illustration]
@@ -80,30 +79,34 @@ Interests
 ---------
 
 - Code readability
-- Agile development
 - Collaboration
 - Music
 - Graphic arts
 - Scuba diving
 - Table tennis
-- Travelling
+- Languages
 
 More about me
 -------------
 
-Read my software [blog] | Connect on [linkedin] | Check out my [illustration] | Follow me on [twitter]
+- Email: sroop@sroop.com
+- Phone: 07967764771
+- Software blog: [handmadecode.tumblr.com]
+- Illustration portfolio: [www.sroop.com]
+- Twitter: [@sroopsunar]
+
 
 [Read my code]:http://github.com/sroop
 [Angry Kitty]:http://angry-kitty.herokuapp.com/
-[Yelp-Clone]:http://github.com/sroop/Yelp-Clone
+[Yelp Clone]:http://github.com/sroop/Yelp-Clone
 [Takeaway]:https://github.com/sroop/Takeaway-App
 [Makers Academy]:http://makersacademy.com
 [Sroop Sunar Illustration]:http://sroop.com
 [MAMA & Company]:http://mamaco.com
 [D&AD Awards]:http://dandad.org
-[blog]:http://http://handmadecode.tumblr.com/
+[handmadecode.tumblr.com]:http://handmadecode.tumblr.com/
 [linkedin]:http://lnkd.in/dySc_mW
-[illustration]:http://sroop.com/
-[twitter]:http://twitter.com/sroop
+[www.sroop.com]:http://sroop.com/
+[@sroopsunar]:http://twitter.com/sroopsunar
 
 
