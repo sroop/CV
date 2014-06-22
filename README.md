@@ -65,7 +65,7 @@ Education
 ### Central Saint Martins College of Art & Design, University of the Arts London
 ##### BA(Hons) Graphic Design: 2005—2009
 - Specialised in contemporary illustration in my final two years
-- Refined my craft through experimentating with more analogue print making processes such as screen printing
+- Refined my craft by experimenting with more analogue print making processes such as screen printing
 - Coodinated both interim and final year exhibitions at the OXO Tower Bargehouse space on the Southbank for the graduating class of 2009
 
 ### University of the Arts London
@@ -97,7 +97,7 @@ More about me
 
 
 [Read my code]:http://github.com/sroop
-[Angry Kitty]:http://angry-kitty.herokuapp.com/
+[Angry Kitty]:http://angrykitty.co.uk/
 [Yelp Clone]:http://github.com/sroop/Yelp-Clone
 [Takeaway]:https://github.com/sroop/Takeaway-App
 [Makers Academy]:http://makersacademy.com
